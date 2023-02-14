@@ -411,3 +411,4 @@ if (choosePlayer) {
     projectile.vx += 10
     controller.moveSprite(bGoalie, 100, 100)
 }
+let list = [0, 1]
